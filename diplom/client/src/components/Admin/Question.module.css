@@ -1,0 +1,43 @@
+.variants {
+    margin-left: 30px;
+}
+
+.questionTitle {
+    margin-bottom: 10px;
+}
+
+.question {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.variantExplanations {
+    display: flex;
+    justify-content: space-between;
+}
+
+.trueVariantString {
+    width: 100px;
+    text-align: right;
+    line-height: 1.2;
+}
+
+.scoreWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scoreString {
+}
+
+.scoreInput {
+    margin-left: 10px;
+    width: 70px;
+}

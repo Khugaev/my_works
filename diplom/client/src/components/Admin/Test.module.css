@@ -1,0 +1,32 @@
+.title {
+    margin-bottom: 20px;
+}
+
+.buttons {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btnWrapper {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0;
+}
+
+.addQuestion {
+    display: flex;
+    flex-direction: column;
+}
+
+.addQuestionButtons {
+    display: flex;
+    gap: 10px;
+}
+
+.deleteQuestion {
+
+}
